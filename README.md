@@ -12,3 +12,6 @@ To run this project use:
 ```
 
 NOTE: Make sure the given time follows 24 hr clock.
+
+
+In the project we have been using https://github.com/olebedev/when and https://github.com/gen2brain/beeep these open libraries.
